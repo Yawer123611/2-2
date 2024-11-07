@@ -1,0 +1,6 @@
+
+myCurrentAge = 19.0
+CurrentYear = 2024.0
+
+years = 2050.0 - CurrentYear
+print(years + myCurrentAge)
